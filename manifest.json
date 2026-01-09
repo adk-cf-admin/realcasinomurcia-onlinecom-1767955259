@@ -1,0 +1,19 @@
+{
+  "name": "Real Casino de Murcia",
+  "short_name": "Real Casino de Murcia",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767953083-cropped-logo-real-casino-murcia-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
